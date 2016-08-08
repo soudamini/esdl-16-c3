@@ -5,4 +5,11 @@ void main()
 {
   int a, b, c;
   // Add calculator functions here 
+  // Add functionalilits like addition subtraction etc.
+  
+  int add (int p, int q)
+  {
+    return a+b;
+    
+  }
 }
